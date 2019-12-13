@@ -1,8 +1,12 @@
 {
-    "name": "react-snippets",
-    "displayName": "React Snippets",
+    "name": "bishrant-react-snippets",
+    "displayName": "Bishrant's React Snippets",
     "description": "Simple snippets for react js project",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bishrant/react-snippets"
+    },
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.41.0"

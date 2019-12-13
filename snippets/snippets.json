@@ -1,5 +1,5 @@
 {
-    "React Simple Snippets": {
+    "Bishrant React Simple Snippets": {
         "prefix": "rc",
         "body": [
             "import React, { Component } from 'react'",
