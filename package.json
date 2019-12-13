@@ -1,0 +1,21 @@
+{
+    "name": "react-snippets",
+    "displayName": "React Snippets",
+    "description": "Simple snippets for react js project",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "ts",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

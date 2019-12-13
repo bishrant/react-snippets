@@ -1,0 +1,22 @@
+{
+    "React Simple Snippets": {
+        "prefix": "rc",
+        "body": [
+            "import React, { Component } from 'react'",
+            "export default class ImageEntryCard extends Component {",
+            "state:any;",
+            "constructor(props: any) {",
+                "super(props);",
+                "this.state = props;",
+           "}",
+            "render() {",
+                "return (",
+                    "<div>",
+                        "Card ",
+                    "</div>",
+                ")",
+            "}",
+        "}"
+        ]
+    }
+}
